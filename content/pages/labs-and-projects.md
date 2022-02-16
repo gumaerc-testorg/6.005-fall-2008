@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Labs and Projects
 uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 ---

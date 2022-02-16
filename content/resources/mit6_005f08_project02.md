@@ -13,8 +13,12 @@ description: 'The purpose of this project is to help you gain experience in (1) 
   to minimize coupling, and identifying and resolving undesirable dependences; (8)
   structuring a program to make it easily testable, organizing, executing and evaluating
   test suites; and (9) working collaboratively in a team.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-005-elements-of-software-construction-fall-2008/b79cb7dff427fb8ed9c1b1696cd49c99_MIT6_005f08_project02.pdf
+file: /media/courses/6-005-elements-of-software-construction-fall-2008/b79cb7dff427fb8ed9c1b1696cd49c99_MIT6_005f08_project02.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Labs and Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Project 2: An abc Music Player'
 uid: b79cb7df-f427-fb8e-d9c1-b1696cd49c99

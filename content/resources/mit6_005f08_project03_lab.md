@@ -5,8 +5,12 @@ description: In this lab, you will get a blazing-fast, learn-by-doing introducti
   building network applications. We will incrementally build a simple chat server
   application that you can use as a starting point for implementing your instant-messaging
   system.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-005-elements-of-software-construction-fall-2008/20c4a7987c8b2bc3e4f18364a7c00914_MIT6_005f08_project03_lab.pdf
+file: /media/courses/6-005-elements-of-software-construction-fall-2008/20c4a7987c8b2bc3e4f18364a7c00914_MIT6_005f08_project03_lab.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Labs and Projects
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lab 3: Networking'
 uid: 20c4a798-7c8b-2bc3-e4f1-8364a7c00914
