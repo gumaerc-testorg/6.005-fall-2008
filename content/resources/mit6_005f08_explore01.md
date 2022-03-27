@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f14086-8b5c-96b1-61bd-176ba0cdb171
 resourcetype: Document
 title: 'Exploration 1: A Midi Piano'
 uid: a938262c-99aa-a302-6f83-fdc6d56530f3

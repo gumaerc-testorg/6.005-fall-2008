@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Projects
 parent_type: CourseSection
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Other
 title: procedural_java
 uid: e1aebbe8-c6e4-86a4-e00a-042dd972fe35

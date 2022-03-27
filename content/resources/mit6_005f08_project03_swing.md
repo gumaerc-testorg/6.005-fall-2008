@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Projects
 parent_type: CourseSection
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Document
 title: 'Optional Lab: Graphical User Interfaces in Swing'
 uid: 065068cf-f37f-ca2d-c0a8-ca73aed82083

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a88398d-2539-09b4-c278-7feefc951a95
 resourcetype: Document
 title: Graphical Object Model Notation
 uid: 9c7aef0d-0aa5-b4a0-9eaa-c647f52598a7

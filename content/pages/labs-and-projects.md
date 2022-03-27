@@ -106,7 +106,7 @@ Project ([PDF]({{< baseurl >}}/resources/mit6_005f08_project02))
 
 Background reading: an abc subset for 6.005 ([PDF]({{< baseurl >}}/resources/mit6_005f08_project02_abc))
 
-Grammar in an EBNF ([TXT](/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008/labs-and-projects/abc_subset_bnf.txt)) (Courtesy of Eunsuk Kang, and used with permission.)
+Grammar in an EBNF ([TXT]({{< baseurl >}}/resources/abc_subset_bnf)) (Courtesy of Eunsuk Kang, and used with permission.)
 
 
 {{< tdclose >}}

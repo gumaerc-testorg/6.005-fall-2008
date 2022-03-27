@@ -19,6 +19,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Projects
 parent_type: CourseSection
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Document
 title: 'Project 2: An abc Music Player'
 uid: b79cb7df-f427-fb8e-d9c1-b1696cd49c99

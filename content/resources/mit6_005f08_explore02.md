@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f14086-8b5c-96b1-61bd-176ba0cdb171
 resourcetype: Document
 title: 'Exploration 2: Building a Sudoku Solver with SAT'
 uid: edd5db4c-32b6-d028-4700-76aa16cdb3cf

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Projects
 parent_type: CourseSection
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Document
 title: 'Lab 3: Networking'
 uid: 20c4a798-7c8b-2bc3-e4f1-8364a7c00914

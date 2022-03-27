@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f14086-8b5c-96b1-61bd-176ba0cdb171
 resourcetype: Document
 title: 'Exploration 3: Photo Organizer'
 uid: 73ce4032-ea79-a56a-bd55-f6ad121d91a3

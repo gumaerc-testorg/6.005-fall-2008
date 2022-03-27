@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3a88398d-2539-09b4-c278-7feefc951a95
 resourcetype: Document
 title: State Machine Syntax and Semantics
 uid: b118e731-2b17-5d91-ac75-a7dbab8fbd91

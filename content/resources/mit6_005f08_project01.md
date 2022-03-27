@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Labs and Projects
 parent_type: CourseSection
+parent_uid: 8ac69634-f91d-cfd0-a350-0a574f84274d
 resourcetype: Document
 title: 'Project 1: Multipart Data Transfer'
 uid: abbd4723-d062-2c74-e134-ad52996bc57a
