@@ -6,6 +6,7 @@ file: /courses/6-005-elements-of-software-construction-fall-2008/56e151359c18f7d
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Supporting files for a case study on Java programming.  (This ZIP file contains 4 .java files and 2 files with no file extension.)
-

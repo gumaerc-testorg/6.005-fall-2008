@@ -7,6 +7,7 @@ file: /courses/6-005-elements-of-software-construction-fall-2008/edd5db4c32b6d02
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 The purpose of this exploration is to give you practice coding in Java, and to introduce you to the case study that will be presented in the lectures on programming with functions and immutable datatypes.
-
