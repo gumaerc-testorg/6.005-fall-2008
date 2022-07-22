@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides problem sets, case studies, and supporting files.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 46f14086-8b5c-96b1-61bd-176ba0cdb171
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Explorations
@@ -26,25 +34,12 @@ SUPPORTING FILES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Exploration 1: A Midi piano ([PDF]({{< baseurl >}}/resources/mit6_005f08_explore01))
+Exploration 1: A Midi piano ({{% resource_link a938262c-99aa-a302-6f83-fdc6d56530f3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-exploration1 ([ZIP]({{< baseurl >}}/resources/exploration1)) (This ZIP file contains 4 .java files and 2 files with no file extension.)
-
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Exploration 2: Building a Sudoku solver with SAT ([PDF]({{< baseurl >}}/resources/mit6_005f08_explore02))
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-exploration2 ([ZIP]({{< baseurl >}}/resources/exploration2)) (This ZIP file contains 2 .txt files and 2 files with no file extension.)
+exploration1 ({{% resource_link 56e15135-9c18-f7d4-1d20-e8e8741475ef "ZIP" %}}) (This ZIP file contains 4 .java files and 2 files with no file extension.)
 
 
 {{< tdclose >}}
@@ -52,14 +47,27 @@ exploration2 ([ZIP]({{< baseurl >}}/resources/exploration2)) (This ZIP file cont
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
+Exploration 2: Building a Sudoku solver with SAT ({{% resource_link edd5db4c-32b6-d028-4700-76aa16cdb3cf "PDF" %}})
+{{< tdclose >}}
+{{< tdopen >}}
 
 
-Exploration 3: Photo organizer ([PDF]({{< baseurl >}}/resources/mit6_005f08_explore03))
+exploration2 ({{% resource_link 69efe07a-d6c0-5da7-04a6-4539f872d5d3 "ZIP" %}}) (This ZIP file contains 2 .txt files and 2 files with no file extension.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Exploration 3: Photo organizer ({{% resource_link 73ce4032-ea79-a56a-bd55-f6ad121d91a3 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-exploration3 ([ZIP - 3.1MB]({{< baseurl >}}/resources/exploration3)) (This ZIP file contains 12 .jpeg files, 5 .java files and 2 files with no file extension.)
+exploration3 ({{% resource_link a65db4de-745e-4a34-bac7-bfb8c61c9b7b "ZIP - 3.1MB" %}}) (This ZIP file contains 12 .jpeg files, 5 .java files and 2 files with no file extension.)
 
 (Photo.java, PreviewPane.java, and Thumbnail.java are co-written by Jongmin Baek, and are used with permission.)
 
@@ -89,7 +97,7 @@ PROBLEM SETS
 {{< tdopen >}}
 
 
-Problem set 1: The state machine paradigm ([PDF]({{< baseurl >}}/resources/mit6_005f08_pset01))
+Problem set 1: The state machine paradigm ({{% resource_link 1af22e22-e0bb-8928-0bca-fe05a5d9bdd1 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -99,7 +107,7 @@ Problem set 1: The state machine paradigm ([PDF]({{< baseurl >}}/resources/mit6_
 {{< tdopen >}}
 
 
-Problem set 2: The symbolic paradigm ([PDF]({{< baseurl >}}/resources/mit6_005f08_pset02))
+Problem set 2: The symbolic paradigm ({{% resource_link 312b62ac-c6a7-bb99-58fa-ec626138f189 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -109,7 +117,7 @@ Problem set 2: The symbolic paradigm ([PDF]({{< baseurl >}}/resources/mit6_005f0
 {{< tdopen >}}
 
 
-Problem set 3: The relational paradigm ([PDF]({{< baseurl >}}/resources/mit6_005f08_pset03))
+Problem set 3: The relational paradigm ({{% resource_link 3e67655a-fdea-6a2f-6778-ac94be3d15e7 "PDF" %}})
 
 
 {{< tdclose >}}

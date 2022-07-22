@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section describes pedagogical differences between the Fall 2008
+  and Fall 2011 versions of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Pedagogy
 uid: aae963e2-8e7e-909d-4850-66ed3f7fe40b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 We asked Prof. Miller to comment on the differences between the Fall 2008 and Fall 2011 versions of 6.005, both published on OCW:

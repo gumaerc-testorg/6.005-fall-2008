@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, lectures, recitations, problem sets, projects, explorations, team meetings,
+  lab assignments, quizzes, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9a93fa2a-8ac8-df25-68fb-a3378ae67d4a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
