@@ -6,6 +6,7 @@ description: In this lab, you will get a blazing-fast, learn-by-doing introducti
   application that you can use as a starting point for implementing your instant-messaging
   system.
 file: /courses/6-005-elements-of-software-construction-fall-2008/20c4a7987c8b2bc3e4f18364a7c00914_MIT6_005f08_project03_lab.pdf
+file_size: 82950
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

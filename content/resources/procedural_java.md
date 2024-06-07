@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting files for a software development project. (This ZIP file contains
   3 .java files and 2 files with no file extension.)
 file: /courses/6-005-elements-of-software-construction-fall-2008/e1aebbe8c6e486a4e00a042dd972fe35_procedural_java.zip
+file_size: 2659
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

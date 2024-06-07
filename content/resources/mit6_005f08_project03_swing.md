@@ -3,6 +3,7 @@ content_type: resource
 description: In this lab, you will become familiar with GUI programming and the Java
   Swing user interface toolkit.
 file: /courses/6-005-elements-of-software-construction-fall-2008/065068cff37fca2dc0a8ca73aed82083_MIT6_005f08_project03_swing.pdf
+file_size: 116737
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
