@@ -4,6 +4,7 @@ description: Supporting files for a software development project on multipart da
   transfer. (This ZIP file contains 1 .jar file, 5 .java files and 2 files with no
   file extension.)
 file: /courses/6-005-elements-of-software-construction-fall-2008/6303520667ca7095e413b575be2a48e9_multipart.zip
+file_size: 102539
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting files for a software development project. (This ZIP file contains
   2 .jar files, 2 .java files and 2 files with no file extension.)
 file: /courses/6-005-elements-of-software-construction-fall-2008/5cbc8e16f9879c6606c0da397c933427_guichat.zip
+file_size: 57228
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

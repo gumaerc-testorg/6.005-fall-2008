@@ -14,6 +14,7 @@ description: 'The purpose of this project is to help you gain experience in (1) 
   structuring a program to make it easily testable, organizing, executing and evaluating
   test suites; and (9) working collaboratively in a team.'
 file: /courses/6-005-elements-of-software-construction-fall-2008/b79cb7dff427fb8ed9c1b1696cd49c99_MIT6_005f08_project02.pdf
+file_size: 98662
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
