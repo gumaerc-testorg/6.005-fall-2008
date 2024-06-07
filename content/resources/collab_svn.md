@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting files for a software development project. (This ZIP file contains
   3 .java files and 2 files with no file extension.)
 file: /courses/6-005-elements-of-software-construction-fall-2008/c49667d104e59883f133b0133ecbaca2_collab_svn.zip
+file_size: 2383
 file_type: application/zip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

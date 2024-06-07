@@ -4,6 +4,7 @@ description: This supplement to a software development project provides a high-l
   but not necessarily comprehensive, overview of language constructs that an abc music
   player will need to handle.
 file: /courses/6-005-elements-of-software-construction-fall-2008/5dbe622a0592a7d590abd9a6cdcdc17b_MIT6_005f08_project02_abc.pdf
+file_size: 77658
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

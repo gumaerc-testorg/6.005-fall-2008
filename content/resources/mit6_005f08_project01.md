@@ -4,6 +4,7 @@ description: In this project, you will build a multipart downloader that assembl
   a data stream from multiple, potentially endless, parts streaming individually from
   multiple machines.
 file: /courses/6-005-elements-of-software-construction-fall-2008/abbd4723d0622c74e134ad52996bc57a_MIT6_005f08_project01.pdf
+file_size: 122262
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
