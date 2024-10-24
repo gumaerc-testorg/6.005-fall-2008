@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting files for a software development project. (This ZIP file contains
   8 .java files and 2 files with no file extension.)
-file: /courses/6-005-elements-of-software-construction-fall-2008/60f9d0e5e863428bc138228ff55ce43a_traversal_java.zip
+file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/60f9d0e5e863428bc138228ff55ce43a_traversal_java.zip
 file_size: 3552
 file_type: application/zip
 learning_resource_types: []
