@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout on graphical object model notation.
-file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/9c7aef0d0aa5b4a09eaac647f52598a7_MIT6_005f08_lec_object_model.pdf
+file: /courses/6-005-elements-of-software-construction-fall-2008/9c7aef0d0aa5b4a09eaac647f52598a7_MIT6_005f08_lec_object_model.pdf
 file_size: 48766
 file_type: application/pdf
 learning_resource_types:

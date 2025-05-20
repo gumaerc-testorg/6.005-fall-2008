@@ -3,7 +3,7 @@ content_type: resource
 description: The purpose of this exploration is to give you practice coding in Java,
   and to introduce you to the case study that will be presented in the lectures on
   programming with functions and immutable datatypes.
-file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/edd5db4c32b6d028470076aa16cdb3cf_MIT6_005f08_explore02.pdf
+file: /courses/6-005-elements-of-software-construction-fall-2008/edd5db4c32b6d028470076aa16cdb3cf_MIT6_005f08_explore02.pdf
 file_size: 83703
 file_type: application/pdf
 learning_resource_types:

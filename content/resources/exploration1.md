@@ -2,7 +2,7 @@
 content_type: resource
 description: Supporting files for a case study on Java programming.  (This ZIP file
   contains 4 .java files and 2 files with no file extension.)
-file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/56e151359c18f7d41d20e8e8741475ef_exploration1.zip
+file: /courses/6-005-elements-of-software-construction-fall-2008/56e151359c18f7d41d20e8e8741475ef_exploration1.zip
 file_size: 6184
 file_type: application/zip
 learning_resource_types:
