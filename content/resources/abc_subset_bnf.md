@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Supporting file for a software development project: a subset of ABC
   1.6 in BNF format for 6.005 Project 2.'
-file: /courses/6-005-elements-of-software-construction-fall-2008/4bb57f329eaeb9ab11c67820a3ba6f71_abc_subset_bnf.txt
+file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/4bb57f329eaeb9ab11c67820a3ba6f71_abc_subset_bnf.txt
 file_size: 1983
 file_type: text/plain
 learning_resource_types: []

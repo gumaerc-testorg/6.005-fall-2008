@@ -3,7 +3,7 @@ content_type: resource
 description: The purpose of this exploration is to give you practice coding in Java,
   and to introduce you to the case study that will be presented in the lectures on
   programming with mutable data and relations.
-file: /courses/6-005-elements-of-software-construction-fall-2008/73ce4032ea79a56abd55f6ad121d91a3_MIT6_005f08_explore03.pdf
+file: /ol-ocw-studio-app/courses/6-005-elements-of-software-construction-fall-2008/73ce4032ea79a56abd55f6ad121d91a3_MIT6_005f08_explore03.pdf
 file_size: 131161
 file_type: application/pdf
 learning_resource_types:
